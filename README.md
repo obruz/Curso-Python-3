@@ -1,2 +1,2 @@
 # Curso Python 3
- Repositorio do curso de Python
+ Primeiro repositório criado para os projetos do curso de python 3...
